@@ -5,3 +5,10 @@
 ‌5.Information Architecture
 ‌6.Accessibility
 ‌7.SEO
+  Lanjut belajar css
+1.Basic CSS
+‌2.CSS Layouting
+‌3.Filter, Transition & Animation
+‌4.Responsive Design
+‌5.Modern CSS
+‌6.CSS Architecture
